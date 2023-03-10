@@ -14,7 +14,7 @@ that had an r squared of .7 with a low mean absolute value score of 5.01. Now th
 
 
 
-Below are the functionalities of the 5 Jupyter notebooks this project consists of to achieve its goal of projecting player fantasy points and creating an optimal draftkings lineup based on those predictions.
+### Below are the functionalities of the 5 Jupyter notebooks this project consists of to achieve its goal of projecting player fantasy points and creating an optimal draftkings lineup based on those predictions.
 
 
 Data Scraping.01.ipynb scrapes games data from Basketball-Reference.com and salary and position information from RotoGuru.
